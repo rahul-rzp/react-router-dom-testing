@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+nav {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+nav > a {
+  margin-right: 10px;
+}
